@@ -70,7 +70,7 @@ body,html{
 }
 .page2{
     height:70vh;
-    background-color: rgb(58, 182, 250);
+    background-color: rgba(75,202,255,255);
 }
 .boite{
     display:flex;
@@ -210,7 +210,7 @@ body,html{
 .page4{
     display: flex;
     height: 70vh;
-    background-color: #6a6a6a;
+    background-color: rgba(81,95,103,255);
     align-items: center;
 }
 .defaultSection{
@@ -243,18 +243,19 @@ body,html{
     color: white;
 }
 .monBouton{
-    color: #333232;
-    border: #333232 3px solid;
+    color: rgba(53,63,70,255);
+    border: rgba(53,63,70,255) 3px solid;
     height: 5.5vh;
     width: 11vw;
-    background-color:#6a6a6a ;
+    background-color:rgba(81,95,103,255) ;
+    font-weight: bold;
 }
 .imageVideo{
     height: 50vh;
     width: 40vw;
 }
 .page5{
-    background-color: rgb(58, 182, 250);
+    background-color: rgba(75,202,255,255);
     display: flex;
     height: 40vh;
     flex-direction: column;
@@ -304,7 +305,7 @@ body,html{
 
 .page6{
     height: 55vh;
-    background-color: rgb(149, 185, 209);
+    background-color: rgba(140,179,215,255);
 }
 .Who{
     display: flex;
@@ -399,7 +400,7 @@ body,html{
     display: flex;
     height: 85vh;
     flex-direction: column;
-    background-color: rgb(149, 185, 209);
+    background-color: rgba(140,179,215,255);
 }
 .titreContact:before {
     position: absolute;
@@ -440,7 +441,7 @@ body,html{
     width: 37vw;
     border-radius: 0.5vh;
     border-color: grey;
-    background-color:rgb(149, 185, 209) ;
+    background-color:rgba(140,179,215,255) ;
     color: white;
 }
 .textdroit,.textbox{
@@ -461,7 +462,7 @@ body,html{
     height: 20vh;
     border-radius: 0.5vh;
     border-color: grey;
-    background-color:rgb(149, 185, 209) ;
+    background-color:rgba(140,179,215,255) ;
     color: white;
     margin-top: 1vh;
 }
@@ -469,7 +470,7 @@ body,html{
     margin-left: 10vw;
     width: 20vw;
     height: 7vh;
-    background-color: rgb(0, 218, 255);
+    background-color: rgba(15,202,235,255);
     font-weight: bold;
     color: white;
     font-size: 1em;
@@ -477,9 +478,9 @@ body,html{
 }
 .page9{
     display: flex;
-    background-color: #48484a;
+    background-color: rgba(62,81,91,255);
     height:20vh;
-    color: gray;
+    color: rgba(137,141,143,255);
     justify-content: space-between;
     align-items: center;
     padding-left: 10vw;
